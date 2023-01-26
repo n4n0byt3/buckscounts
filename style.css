@@ -13,3 +13,19 @@
 }
 
 /* your code */
+body {
+  margin: 1em 25%;
+  background-color: #1e3932;
+}
+nav {
+  display: flex;
+  font-size: 1.5rem;
+  justify-content: space-between;
+}
+nav h1 {
+  color: cyan;
+}
+header {
+  background-color: grey;
+}
+
