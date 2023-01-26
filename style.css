@@ -26,6 +26,24 @@ nav h1 {
   color: cyan;
 }
 header {
+  display: flex;
   background-color: grey;
+  margin-bottom: 1rem;
+  border-radius: .2em;
+  padding: 5px;
 }
+
+.city-list {
+  display: flex;
+  flex-direction: column;
+  text-align: right;
+  border: 2px solid white;
+}
+
+.city-item {
+  background-color: #00754a;
+  margin: .5rem .5rem;
+}
+
+
 
